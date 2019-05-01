@@ -63,7 +63,7 @@ nrows = table.nrows #表格总行数
 
 
 if __name__ == '__main__':
-    api = GooglePlaces("AIzaSyCtC4ewHjta76uqJ9qmGnOtnohXIHVxkns") #here is my API key
+    api = GooglePlaces("YOUR KEY") #here is my API key
     places = api.search_places_by_coordinate(location, "100", "restaurant")
     fields = ['name', 'formatted_address', 'international_phone_number', 'website', 'rating', 'review']
     for place in places:
