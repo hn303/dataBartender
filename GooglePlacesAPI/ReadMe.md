@@ -8,3 +8,7 @@
 -	Google Places API
 -	Create Fishnet
 -	Create Python script 
+
+## What's Next:
+- Create fishnet
+- Test code
