@@ -9,6 +9,6 @@
 -	Create Fishnet
 -	Create Python script 
 
-## Next:
-- create fishnet
-- test code
+## What's Next:
+- Create fishnet
+- Test code
