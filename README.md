@@ -1,6 +1,6 @@
 # dataBartender
 
-This is a repo about data analysis practice.
+This is a repo about practices of data mining.
 Tring to be data bartender who can make the best data cocktail.
 
 ## Index
